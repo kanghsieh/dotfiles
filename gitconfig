@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = kanghsieh1990@gmail.com
+	name = Kang Hsieh
