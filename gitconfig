@@ -52,3 +52,5 @@
 [user]
 	email = kanghsieh1990@gmail.com
 	name = Kang Hsieh
+[init]
+	defaultBranch = master
